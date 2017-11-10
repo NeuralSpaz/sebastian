@@ -1,7 +1,7 @@
 
 
 <!--
-Copyright (c) 2017 by Sebastian (https://codepen.io/bstyx/pen/eegxom)
+Copyrigh (c) 2017 by Sebastian (https://codepen.io/bstyx/pen/eegxom)
 
 
 Fork of an original work by andreas laudwein (https://codepen.io/pollis/pen/zdpVeg)
