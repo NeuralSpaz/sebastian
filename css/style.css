@@ -1,0 +1,116 @@
+body{
+  background-color: black;
+  font-family: Dosis, sans-serif;
+    
+}
+
+
+.nav-pills{
+  font-family: Dosis, sans-serif;
+  font-size: 2.5em;
+  background-color: #F2F3F5;
+  opacity: .7;
+  
+
+}
+
+.biggest {
+  margin: 0px;
+  padding: 0px;
+  font-size:6.0em;
+}
+
+.saying{
+  margin-top: -1px;
+  
+}
+
+.biggest-box{
+  padding: 15px;
+  margin-top:12%;
+  margin-bottom:10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  background-color: grey;
+  opacity: .8;
+  width:40%;
+  color: white;
+  
+}
+
+.btn-default{
+
+  color: white;
+  background-color: grey;
+  border-color: grey;
+  font-size: 2em;
+  opacity: .7;
+}
+
+.pageOne{
+ background:url("https://images.unsplash.com/photo-1508830524289-0adcbe822b40?auto=format&fit=crop&w=2022&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+background-size: cover;
+ height: 1000px;
+}
+  
+.pageTwo{
+color: white;
+ background-color:black;
+background-size: cover;
+height: 1000px;
+}
+
+.basti{
+  padding:5%;
+  opacity:.6;
+  letter-spacing:3px;
+}
+
+.imageal{
+  background: url("https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22195806_1653140534727629_5731572664987667706_n.jpg?oh=d538951e36a49d5f849ae318ff36bc24&oe=5AAE5C38");
+    background-size: cover;
+  height: 1000px;
+  opacity: .8;
+}
+
+.pageThree{
+  padding-top: 50px;
+  color:white;
+background-color:#424242;
+  height:1000px;
+ 
+}
+
+
+#portfolio{
+  font-size: 4em;
+}
+
+.preview{
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right:2%;
+}
+
+.pageFour{
+background-color: black;
+  height: 300x;
+ }
+
+#footer{
+  margin-top: 70px;
+  padding-top: 70px;
+  padding-bottom:5px;
+  
+}
+
+
+
+
+
+
+
+
+
+
